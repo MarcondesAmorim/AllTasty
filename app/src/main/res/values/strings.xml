@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AllTasty</string>
+    <string name="tab_all">All Recipes</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="title_ingredients">Ingredients</string>
+
+    <string name="vector_check">M 0 14 L 9.6 21.6 M 7.7 21.7 L 24 0</string>
+    <string name="vector_cancel">M 0 0 L 24 24 M 0 24 L 24 0</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type the ingredients for recipes</string>
+    <string name="hello">A search is required to display the recipes</string>
+
+</resources>
